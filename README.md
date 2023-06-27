@@ -7,7 +7,7 @@
 
 ## 使用指南
 
-下载[插件](./fotor-cookie%E6%8F%92%E4%BB%B6.zip)，点击Chrome浏览器右上角… =>更多工具=>拓展程序
+下载[插件](https://raw.githubusercontent.com/saberjsd/chrome-cookie-pass/master/fotor-cookie%E6%8F%92%E4%BB%B6.zip)，点击Chrome浏览器右上角… =>更多工具=>拓展程序
 
 打开开发者模式，拖入zip文件，立即生效
 
